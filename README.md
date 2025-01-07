@@ -22,3 +22,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijeet-sarker&show_icons=true&locale=en" alt="avijeet-sarker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijeet-sarker&" alt="avijeet-sarker" /></p>
+# 📊 GitHub Stats:
+
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avijeet-sarker&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avijeet-sarker&theme=vision_friendly_dark&utcOffset=8">
+</div>
+
+<br/>
+<br/>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avijeet-sarker&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avijeet-sarker&theme=vision_friendly_dark">
+</div>
+
+<br/>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avijeet-sarker&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avijeet-sarker&theme=vision_
