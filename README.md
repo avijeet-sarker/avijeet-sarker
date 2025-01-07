@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Avijeet sarker</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center"> software Engineer </h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno1czd3ZXkxaGk3NzlrNHhhcGtucG5xYm05aTlnenV1MXUxMGMwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijeet-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="avijeet-sarker" /> </p>
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/avijeet-sarker-189589227](www.linkedin.com/in/avijeet-sarker-189589227)
 
 - 📫 How to reach me **avijeetsarker0@gmail.com**
-
+<li>Mobile & WhatsApp: <b>+8801870276926</b></li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avijeet sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijeet sarker" height="30" width="40" /></a>
