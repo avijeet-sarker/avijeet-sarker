@@ -22,7 +22,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avijeet-sarker&theme=vision_friendly_dark" style="left: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avijeet-sarker&theme=vision_friendly_dark" style="margin-right: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avijeet-sarker&theme=vision_friendly_dark&utcOffset=8">
 </div>
 
@@ -30,7 +30,7 @@
 <br/>
 
 <div style="display: flex; flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avijeet-sarker&theme=vision_friendly_dark" style="left: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avijeet-sarker&theme=vision_friendly_dark" style="margin-right: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avijeet-sarker&theme=vision_friendly_dark">
 </div>
 
