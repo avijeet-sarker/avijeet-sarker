@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijeet sarker</h1>
-<h3 align="center"> Software Engineer </h3>
+<h3 align="center"> Web Developer </h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno1czd3ZXkxaGk3NzlrNHhhcGtucG5xYm05aTlnenV1MXUxMGMwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijeet-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="avijeet-sarker" /> </p>
 
